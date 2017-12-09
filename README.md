@@ -1,7 +1,8 @@
 # vueInitMintUi
 
-> project技术搭建：vue + fetch + mint-ui + vuex 
-> 用于每次新建功能的时候使用，已调试好！
+> project技术搭建：vue + fetch + mint-ui + vuex + less + sass <br />
+> 项目中具备：
+> 
 
 ## Build Setup
 
