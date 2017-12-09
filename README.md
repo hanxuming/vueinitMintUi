@@ -1,6 +1,7 @@
-# myproject
+# vueInitMintUi
 
-> A Vue.js project
+> project技术搭建：vue + fetch + mint-ui + vuex 
+> 用于每次新建功能的时候使用，已调试好！
 
 ## Build Setup
 
@@ -8,7 +9,7 @@
 # install dependencies
 npm install
 
-# serve with hot reload at localhost:8080
+# serve with hot reload at localhost:8080 
 npm run dev
 
 # build for production with minification
