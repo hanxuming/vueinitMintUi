@@ -1,13 +1,15 @@
 # vueInitMintUi
 
-> project技术搭建：vue + fetch + mint-ui + vuex + less + sass <br />
+> project技术搭建：vue + fetch + mint-ui + vuex + es6 + less + sass <br />
+>本工程使用于在新建项目的时候使用，已经兼容es6语法以及低版本手机的兼容问题.
 > 项目中具备：<br />
 >       1.以vue为核心<br />
         2.以fetch处理数据接口：可以请求后台数据接口，也可以本地模拟数据使用 <br />
         3.集成 mint-ui 处理ui框架，进行快速页面开发 <br />
         4.集成 vuex 进行应用程序开发的 状态管理 <br />
         5.已经配置好vue项目中的less、sass使用功能。<br />
-        6.src/unit下搭配几个常用的函数方法
+        6.src/unit下搭配几个常用的函数方法<br />
+        7.兼容es6、es5语法，处理了常见的兼容性问题
 ## Build Setup
 
 ``` bash
