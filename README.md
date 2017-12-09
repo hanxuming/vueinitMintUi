@@ -1,6 +1,6 @@
 # vueInitMintUi
 
-> project技术搭建：vue + fetch + mint-ui + vuex + es6 + less + sass <br />
+> project技术搭建：vue(webpack脚手架) + fetch + mint-ui + vuex + es6 + less + sass <br />
 >本工程使用于在新建项目的时候使用，已经兼容es6语法以及低版本手机的兼容问题.<br />
 > 项目中具备：<br />
 >       1.以vue为核心<br />
