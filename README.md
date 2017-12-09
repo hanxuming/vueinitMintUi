@@ -1,8 +1,10 @@
 # vueInitMintUi
 
 > project技术搭建：vue + fetch + mint-ui + vuex + less + sass <br />
-> 项目中具备：
-> 
+> 项目中具备：<br />
+>       1.以vue为核心<br />
+        2.以fetch处理数据接口：可以请求后台数据接口，也可以本地模拟数据使用 <br />
+        3.
 
 ## Build Setup
 
