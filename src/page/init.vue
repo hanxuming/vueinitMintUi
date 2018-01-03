@@ -3,7 +3,7 @@
 	</div>
 </template>
 <script type="text/javascript">
-	import { Tab, TabItem } from 'vux'
+	
 	export default{
 		data () {
 			return {
